@@ -1,0 +1,11 @@
+package br.com.livro.servlets;
+
+import jakarta.servlet.annotation.WebServlet;
+import jakarta.servlet.http.HttpServlet;
+
+@WebServlet("/hello")
+public class HelloServlet extends HttpServlet {
+
+	private static final long serialVersionUID = 1L;
+
+}

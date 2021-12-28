@@ -1,0 +1,11 @@
+COLON=\#ffffff | null | false | false | false | false
+COMMA=\#ffffff | null | false | false | false | false
+COMMENT=\#4b71e3 | null | false | false | false | false
+CURLY_BRACE=\#ffffff | null | false | false | false | false
+OBJECT_KEY=\#8be9fd | null | false | false | false | false
+VALUE_BOOLEAN=\#bd93f9 | null | false | false | false | false
+VALUE_NULL=\#8489a4 | null | false | false | false | false
+VALUE_NUMBER=\#bd93f9 | null | false | false | false | false
+VALUE_STRING=\#faea66 | null | true | true | false | false
+eclipse.preferences.version=1
+overriddenByCSS=,COLON,COMMA,CURLY_BRACE,VALUE_NULL,

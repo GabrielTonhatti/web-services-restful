@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+registered.tutorials=tricks101,angular101
+tutorial.angular101.addedOn=1636237154067
+tutorial.angular101.completed=false
+tutorial.angular101.lastCompleted=7
+tutorial.angular101.location=/home/gabriel/.codemix/cache/angular101.codemix-tutorial
+tutorial.angular101.title=Angular 101\: Create a Simple App
+tutorial.angular101.type=FILE
+tutorial.tricks101.addedOn=1636230645324
+tutorial.tricks101.completed=false
+tutorial.tricks101.lastCompleted=1
+tutorial.tricks101.location=/home/gabriel/.codemix/cache/tricks101.codemix-tutorial
+tutorial.tricks101.title=Tricks 101\: Code Faster with Emmet, Snippets and More
+tutorial.tricks101.type=FILE
