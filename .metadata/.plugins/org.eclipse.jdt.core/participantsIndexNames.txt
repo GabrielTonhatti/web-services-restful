@@ -1,5 +1,0 @@
-INDEX VERSION 1.131
-/home/gabriel/workspaces/web-service-restful/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3301435567.index
-/Carros/src/main/java
-/home/gabriel/workspaces/web-service-restful/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3973702287.index
-/Carros/src/main/java
