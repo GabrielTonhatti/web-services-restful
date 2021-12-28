@@ -1,9 +1,0 @@
-package br.com.livro.servlets;
-
-import jakarta.servlet.annotation.WebServlet;
-import jakarta.servlet.http.HttpServlet;
-
-@WebServlet("/hello")
-public class HelloServlet extends HttpServlet {
-
-}
